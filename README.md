@@ -6,4 +6,5 @@ seguem as fotos:
 
 
 ## codigo
-codigo do cubo [https://makecode.microbit.org/_ERJF1tU7gd7P]
+codigo do cubo 
+https://makecode.microbit.org/_ERJF1tU7gd7P
